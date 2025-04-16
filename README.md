@@ -36,7 +36,6 @@ Passionate about crafting elegant solutions that marry functionality with beauti
 
 [![Email](https://img.shields.io/badge/📧_Email-Norahnaifal@hotmail.com-2EC866?style=for-the-badge&logo=gmail)](mailto:Norahnaifal@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/norahnaljbreen/)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-FF7139?style=for-the-badge&logo=vercel)](https://your-portfolio-link.com)
 
 </div>
 
