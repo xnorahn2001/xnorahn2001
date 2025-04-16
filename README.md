@@ -30,13 +30,6 @@ Passionate about crafting elegant solutions that marry functionality with beauti
 - ♿ Web Accessibility Standards
 - 🧪 Test-Driven Development
 
-## 🏆 GitHub Achievements
-<div align="center">
-  
-![Norah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NorahNaif&show_icons=true&theme=dracula&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NorahNaif&layout=compact&theme=dracula&hide_border=true)
-
-</div>
 
 ## 📫 Let's Collaborate!
 <div align="center">
