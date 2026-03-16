@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="رابط_صورة_البنر_حقك" width="100%" />
+  <img src="https://i.pinimg.com/736x/37/84/7d/37847d1f7aaf243fbd404113af3de8e4.jpg" width="100%" />
 
   # Hi there, I'm Norah Aljbreen 👋
   ### 🎨 UX/Product Designer | 💻 Full-Stack Developer
