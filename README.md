@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" width="100%" />
+  <img src="./IMG_1756.jpg" width="100%" />
 
   # Hi there, I'm Norah Aljbreen 👋
   ### 🎨 UX/Product Designer | 💻 Full-Stack Developer
