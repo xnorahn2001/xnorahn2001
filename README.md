@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./norah.png" width="100%" />
+  <img src="./norah.png" width="50%" />
 
   # Hi there, I'm Norah Aljbreen 👋
   ### 🎨 UX/Product Designer | 💻 Full-Stack Developer
