@@ -1,47 +1,27 @@
-# 👋 Hello, I'm Norah Aljbreen
-
-**💻 Full-Stack Developer | UI/UX Designer**  
-Passionate about crafting elegant solutions that marry functionality with beautiful design. Specializing in building responsive web applications with intuitive user experiences.
-
-## 🛠️ Technical Stack
 <div align="center">
-  
-| **Frontend**       | **Backend**       | **Design & Tools** |
-|--------------------|-------------------|--------------------|
-| React.js           | C#/.NET Core      | Figma              |
-| JavaScript (ES6+)  | Python (Django)   | Adobe XD           |
-| TypeScript         | RESTful APIs      | User Research      |
-| HTML5/CSS3         | SQL Databases     | Wireframing        |
+  <img src="رابط_صورة_البنر_حقك" width="100%" />
 
+  # Hi there, I'm Norah Aljbreen 👋
+  ### 🎨 UX/Product Designer | 💻 Full-Stack Developer
+  *Bridging the gap between complex logic and seamless human-centric design.*
 </div>
 
-## 🎓 Education
-- **Bachelor's in Software Engineering**  
-  University of Hail | 2024
- 
+---
 
-- **Software Development Bootcamp**  
-  Saudi Digital Academy | 2024  
-  *Specialized in C#/.NET development as a full stack developer *
+## 🛠️ My Digital Toolbox
 
-## 🌱 Currently Exploring
-- 🔍 Advanced React State Management
-- 🏗️ Microservices Architecture
-- ♿ Web Accessibility Standards
-- 🧪 Test-Driven Development
+### 🎨 Design & Research
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF26BE?style=flat-square&logo=Adobe%20XD&logoColor=white) 
 
+### 💻 Frontend & Mobile
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 
-## 📫 Let's Collaborate!
-<div align="center">
+### ⚙️ Backend
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
-[![Email](https://img.shields.io/badge/📧_Email-Norahnaifal@hotmail.com-2EC866?style=for-the-badge&logo=gmail)](mailto:Norahnaifal@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/norahnaljbreen/)
+---
 
-</div>
-
-<div align="center">
-  
-[![Visitors](https://komarev.com/ghpvc/?username=NorahNaif&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/NorahNaif)
-[![Repos](https://badges.pufler.dev/repos/NorahNaif?color=blue&style=flat)](https://github.com/NorahNaif?tab=repositories)
-
-</div>
+## 🚀 What's New?
+- 🍎 Deep diving into **iOS Development** with Swift.
+- 🧘 Integrating **Wellness & UX** concepts at **Hyat**.
+- 📐 Crafting scalable **Design Systems**.
