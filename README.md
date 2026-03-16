@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/0d/1b/14/0d1b14adbe62de05ec17dc9e3c862573.jpg" width="100%" />
+  <img src="https://i.pinimg.com/1200x/e3/70/a0/e370a0bb35e2c2aa07449d10c7b36b09.jpg" width="100%" />
 
   # Hi there, I'm Norah Aljbreen 👋
   ### 🎨 UX/Product Designer | 💻 Full-Stack Developer
