@@ -9,9 +9,7 @@
 ---
 
 ## 🛠️ My Digital Toolbox
-
-### 🎨 Design & Research
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF26BE?style=flat-square&logo=Adobe%20XD&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=sketch&logoColor=black) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF26BE?style=flat-square&logo=Adobe%20XD&logoColor=white) ![Mirro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
 
 ### 💻 Frontend & Mobile
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
